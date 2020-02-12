@@ -1,0 +1,2 @@
+rootProject.name='Stetho OkHttp no-op'
+include ':stetho-okhttp-no-op'
